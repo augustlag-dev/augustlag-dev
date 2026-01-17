@@ -21,4 +21,4 @@ Soy un apasionado por la lógica, los números y el código. Como estudiante de 
 2.  **(Próximamente) Club Management** - Sistema de gestión de socios y finanzas deportivas.
 
 ---
-[Conecta conmigo en LinkedIn](www.linkedin.com/in/emanuel-augusto-lagos-877b6539a)
+[Conecta conmigo en LinkedIn](https://www.linkedin.com/in/emanuel-augusto-lagos-877b6539a/)
